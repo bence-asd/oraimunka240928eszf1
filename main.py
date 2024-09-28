@@ -7,5 +7,8 @@
 #import masodik
 #import tizenegyedik
 #tizenegyedik.tizenegyedikFeladat()
-import tizenhatos
-tizenhatos.tizenhatodikFeladat()
+#import tizenhatos
+#tizenhatos.tizenhatodikFeladat()
+import elagazasokminta
+#elagazasokminta.elso()
+elagazasokminta.masodik()
